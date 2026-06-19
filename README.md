@@ -20,4 +20,6 @@ Dieses Repository enthält den Proof-of-Concept (PoC) zur Überwindung der algor
 GPLv3 - Die Architektur der Freiheit muss frei bleiben.
 
 ---
-*Sapere aude. Die Architektur ist die Grenze unserer Freiheit.*
+*Sapere aude - Die Architektur ist die Grenze unserer Freiheit*
+
+*Totum plus est quam productum factorum suorum - Das Ganze ist mehr als das Produkt seiner Faktoren*
